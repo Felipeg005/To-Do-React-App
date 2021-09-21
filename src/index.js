@@ -1,18 +1,14 @@
-import React from "react"
-import ReactDOM from "react-dom"
-import TodoContainer from "./components/TodoContainer"
-import "./App.css"
-import { BrowserRouter } from "react-router-dom"
+import React from 'react';  // eslint-disable-line
+import ReactDOM from 'react-dom';  // eslint-disable-line
+import TodoContainer from './components/TodoContainer';  // eslint-disable-line
+import './App.css';  // eslint-disable-line
+import { BrowserRouter } from 'react-router-dom';  // eslint-disable-line
 
-
-const element = <h1>Hello from Create React App</h1>
-
-ReactDOM.render(element, document.getElementById("root"));
 ReactDOM.render(
-  <React.StrictMode>
-    <BrowserRouter>
-      <TodoContainer />
-    </BrowserRouter>
+  <React.StrictMode>,
+    <BrowserRouter>,
+      <TodoContainer />,
+    </BrowserRouter>,
   </React.StrictMode>,
-  document.getElementById("root")
-)
+  document.getElementById('root'),
+);
