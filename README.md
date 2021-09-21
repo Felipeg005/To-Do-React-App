@@ -1,65 +1,54 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# To do list App
 
-# Project Name
-
-> One paragraph statement about the project.
+> App to storage your daily tasks.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML-CSS-JavaScript-Webpack-React
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Visit Live Demo Link](https://felipeg005.github.io/To-Do-React-App/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+You can visit the Live Demo or clone the repository and open the dist/html.index file with your browser to see the project.
 
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps
 
 ### Prerequisites
 
-### Setup
+- Before we begin, make sure you have a fresh version of Node.js installed
 
-### Install
+### Set-up & Install
+
+- [First clone the repo](https://github.com/Felipeg005/To-Do-List-ES6/) and checkout the latest branch.
+
+- To install the latest release or a specific version, run one of the following commands:
+
+`npm install`
+
+
+- If you're using webpack v4 or later and want to call webpack from the command line, you'll also need to install the CLI.
+
+`npm install` --save-dev webpack-cli
 
 ### Usage
 
-### Run tests
-
-### Deployment
+- Please run - npm run build - and then run - npm start - on the project folder
 
 
+👤 **Author**
 
-## Authors
+**Juan Felipe Gomez Tobon**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@githubhandle](https://github.com/Felipeg005/)
+- Twitter: [@twitterhandle](https://twitter.com/JuanFGT05)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/juan-felipe-gomez-tobon/)
 
 ## Show your support
 
@@ -67,9 +56,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to Microverse for make it possible!
+- Challenge creator
 
 ## 📝 License
 
